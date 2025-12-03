@@ -1,5 +1,7 @@
 # hDPC_autofocus
 
+User manual and files required for environment will be uploaded soon...
+
 This is repository containing the code, GUI and other required files for autofocusing procedure described in article "Nanoscale drift-correction in high-resolution optical microscopy for non-transparent biological tissues using back-illumination label-free imaging" which was submitted for publication.
 
 The folder LEDcontrol contains the last version of the code used to controll the acquistions performed as a part of the project. 
